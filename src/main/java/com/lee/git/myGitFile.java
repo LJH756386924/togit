@@ -8,5 +8,6 @@ public class myGitFile {
        if(git.equals(hub)&&(git+hub)>0){
            System.out.println("github");
        }
+       String name = "Lee";
    }
 }
