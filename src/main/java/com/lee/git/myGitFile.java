@@ -10,5 +10,6 @@ public class myGitFile {
        }
        String name = "Lee";
        String id = "x";
+       String i = "Lee";
    }
 }
