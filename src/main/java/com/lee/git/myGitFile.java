@@ -9,5 +9,6 @@ public class myGitFile {
            System.out.println("github");
        }
        String name = "Lee";
+       String id = "x";
    }
 }
