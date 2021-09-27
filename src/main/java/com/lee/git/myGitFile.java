@@ -13,5 +13,6 @@ public class myGitFile {
        String i = "Lee";
        System.out.println("push");
        System.out.println("pull");
+       System.out.println("fromgithub");
    }
 }
