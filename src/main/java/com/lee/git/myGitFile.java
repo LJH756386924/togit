@@ -11,5 +11,6 @@ public class myGitFile {
        String name = "Lee";
        String id = "x";
        String i = "Lee";
+       System.out.println("push");
    }
 }
